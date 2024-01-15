@@ -7,7 +7,7 @@ Rockcraft
 
 Purpose
 -------
-
+ffdf
 Tool to create OCI Images using the language from `Snapcraft`_ and `Charmcraft`_.
 
 .. _Snapcraft: https://snapcraft.io
