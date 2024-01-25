@@ -30,4 +30,3 @@ parts:
     plugin: nil
     stage-packages:
       - hello
-a: b
